@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">👨‍💻 Programming and Markup Languages</h3>
+<h3 align="center">💻 Programming and Markup Languages</h3>
 <p align="center">
   <a href="https://blog.ofpp.cn"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://blog.ofpp.cn"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
