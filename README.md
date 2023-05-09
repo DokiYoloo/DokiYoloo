@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F73FA1&center=true&vCenter=true&repeat=false&width=435&lines=Worst+Java+Engineer+Ever" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F73FA1&center=true&vCenter=true&repeat=false&width=435&lines=Worst+Software+Engineer+Ever" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DokiYoloo&theme=swift"/>
 </p>
 
-![DokiYolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokiYoloo&theme=monokai&show_icons=true&hide=issues,stars)
+
